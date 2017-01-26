@@ -1,0 +1,6 @@
+#dependent
+	SDL2, SDL_image
+#compile
+	make
+#run
+	make run || ./light	
